@@ -14,7 +14,6 @@ img{width:80px}.hidden{display:none}video{width:250px}#list{max-height:80vh;over
 </head>
 <body>
 <button onclick="adminLogin()" style="position:absolute;top:10px;left:10px;font-size:12px;padding:6px 10px;">출결 리스트</button>
-<h1>출결 시스템</h1>
 <div id="main"><div id="display"></div>
 <div class="grid">
 <button onclick="press('1')">1</button><button onclick="press('2')">2</button><button onclick="press('3')">3</button>
